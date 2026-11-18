@@ -1,3 +1,7 @@
+> **Published service.** Hosted by LMS, University of Patras.
+> Method, example and runner: https://huggingface.co/EnerTEF/AI-Assisted-Production-Scheduling
+> This repository is the technical specification.
+
 # AI-Assisted Scheduling of Production towards Energy Efficiency Increase
 
 **Technical Specifications**
